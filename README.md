@@ -1,5 +1,5 @@
  
-# Sustainify - React Implementation
+# Sustainify - React Implementation.
 
  Sustainify , which focuses on recycling and sustainability. The application allows users to sell their recyclable items, check exchange rates, and learn about sustainable practices through blog posts.
 

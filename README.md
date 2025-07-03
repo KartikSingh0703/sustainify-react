@@ -7,7 +7,7 @@
 
 The project is organized into the following structure:
 
-```
+```'
 sustainify-react/
 ├── public/
 │   ├── index.html
